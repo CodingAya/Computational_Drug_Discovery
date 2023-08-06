@@ -4,7 +4,7 @@
 
 
 ## Dataset
-The dataset used in this project is the ChEMBL dataset. ChEMBL is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity, and genomic data to aid the translation of genomic information into effective new drugs. It is compiled from more than 88,000 documents, 1.6 million assays, and the data spans 15,000 targets and 2,000 cells, and 45,000 indications. [Data as of August 3, 2023; ChEMBL version 33](https://www.ebi.ac.uk/chembl/) 
+The dataset used in this project is the ChEMBL dataset. ChEMBL is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity, and genomic data to aid the translation of genomic information into effective new drugs. It is compiled from more than 88,000 documents, 1.6 million assays, and the data spans 15,000 targets and 2,000 cells, and 45,000 indications. [[Data as of August 3, 2023; ChEMBL version 33.]](https://www.ebi.ac.uk/chembl/) 
 
 ## Goal:
 
