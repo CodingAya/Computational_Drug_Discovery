@@ -1,12 +1,12 @@
-# Computational_Drug_Discovery
+# Computational Drug Discovery
 
-Goal:
+## Goal:
 
-Part 1:
+## Part 1:
 
-Part 2:
+## Part 2:
 
-Part 3:
+## Part 3:
 
 RDKit is a cheminformatics toolkit with bindings for Python. It's packed with functionality, deployed within multiple open source projects, and is widely-used in machine learning applications. 
 
