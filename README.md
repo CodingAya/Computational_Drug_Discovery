@@ -1,7 +1,9 @@
 # Computational Drug Discovery
 
 ## Context
+Alzheimer’s disease is the most common cause of dementia among the elderly and is characterized by loss of memory and other cognitive functions. In Alzheimer's disease, there is a decrease in the level of 'acetylcholine', a neurotransmitter that plays an important role in the normal function of the brain and body. 'Acetylcholinesterase' is an enzyme, a specialized protein, that breaks down 'acetylcholine' after it has completed its job of transmitting messages between neurons. This decrease in 'acetylcholine' contributes to the cognitive and memory problems associated with Alzheimer's disease.
 
+Treatment of Alzheimer's disease has been dominated by the use of 'acetylcholinesterase' (AChE) inhibitors. These drugs compensate for the death of cholinergic neurons and offer symptomatic relief by inhibiting 'acetylcholine' (ACh) turnover and restoring synaptic levels of this neurotransmitter.
 
 ## Dataset
 The dataset used in this project is the ChEMBL dataset. ChEMBL is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity, and genomic data to aid the translation of genomic information into effective new drugs. It is compiled from more than 88,000 documents, 1.6 million assays, and the data spans 15,000 targets and 2,000 cells, and 45,000 indications. [[Data as of August 3, 2023; ChEMBL version 33].](https://www.ebi.ac.uk/chembl/) 
@@ -44,4 +46,4 @@ Now activate the environment and run Jupyter Notebook with:
 $ conda activate my-rdkit-env
 (my-rdkit-env) $ jupyter notebook
 ```
-For more details about the RDKit toolkit you can refer to this [website](https://depth-first.com/articles/2020/08/17/getting-started-rdkit-and-jupyter/)
+For more details about the RDKit toolkit you can refer to this [website.](https://depth-first.com/articles/2020/08/17/getting-started-rdkit-and-jupyter/)
