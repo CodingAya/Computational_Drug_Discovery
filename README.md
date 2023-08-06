@@ -19,7 +19,8 @@ Computing Lipinski's molecular descriptors (molecular weight, LogP, number of hy
 ## Part 3:
 Computing the molecular descriptors using the PADEL-Descriptor software and preparing the dataset for Model Building.
 
-## Additional infos
+## Additional info
+### RDKit
 RDKit is a cheminformatics toolkit with bindings for Python. It's packed with functionality, deployed within multiple open-source projects, and is widely used in machine learning applications. 
 
 After installing Anaconda, as per the RDKit Installation page, we can create a new Anaconda environment to be used with RDKit as follows:
@@ -47,3 +48,8 @@ $ conda activate my-rdkit-env
 (my-rdkit-env) $ jupyter notebook
 ```
 For more details about the RDKit toolkit you can refer to this [website.](https://depth-first.com/articles/2020/08/17/getting-started-rdkit-and-jupyter/)
+
+
+### PADEL-Descriptor software
+[PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) is a software developed in Java for calculating molecular descriptors and fingerprints. The software currently calculates 797 descriptors (663 1D, 2D descriptors, and 134 3D descriptors) and 10 types of fingerprints. These descriptors and fingerprints are calculated mainly using The Chemistry Development Kit. 
+- `padel.sh` is the shell script file that contains instructions on how to run PaDEL calculations.
